@@ -13,7 +13,7 @@
 		<module>bank-web</module>
 	</modules>
 	<properties>
-		<spring.version>4.1.6.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 		<project.source.version>1.8</project.source.version>
 		<project.target.version>1.8</project.target.version>
 	</properties>
